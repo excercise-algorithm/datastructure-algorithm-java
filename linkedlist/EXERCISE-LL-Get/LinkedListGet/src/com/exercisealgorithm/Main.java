@@ -3,7 +3,7 @@ package com.exercisealgorithm;
 public class Main {
 
     public static void main(String[] args) {
-        
+
         LinkedList myLinkedList = new LinkedList(10);
         myLinkedList.append(50);
         myLinkedList.append(40);
