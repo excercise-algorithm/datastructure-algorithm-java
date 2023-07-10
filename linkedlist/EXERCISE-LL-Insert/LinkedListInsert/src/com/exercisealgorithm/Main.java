@@ -23,6 +23,6 @@ public class Main {
 
         System.out.println("\nLL after insert(4) at end:");
         myLinkedList.printList();
-        
+
     }
 }
